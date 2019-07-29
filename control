@@ -1,0 +1,9 @@
+Architecture: iphoneos-arm
+Author: Infuriare
+Depends: mobilesubstrate
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Rave
+Name: StatusSSID
+Package: me.etasoon.ssid
+Section: Tweaks
+Version: 0.0.1
